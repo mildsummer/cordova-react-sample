@@ -1,4 +1,4 @@
-# NHKforSchool Frontend App
+# cordova-react-sample
 
 ### Requirements
 * Cordova (>=5.4.x)
